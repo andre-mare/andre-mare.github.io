@@ -4,7 +4,6 @@ title: Beyond Engineering
 cover: true
 selected_posts:
 - minikube/_posts/2023-06-01-minikube-essentials-developer-guide.md
-- books/_posts/2023-01-01-essential-agile-books-for-software-engineers.md
 posts_page: /blog/
 featured: true
 ---
