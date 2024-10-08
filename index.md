@@ -1,47 +1,21 @@
 ---
-layout: page
-title: Thank You!
-sitemap: false
+layout: welcome
+title: Beyond Engineering
+cover: true
+selected_posts:
+- minikube/_posts/2023-06-01-minikube-essentials-developer-guide.md
+- books/_posts/2023-01-01-essential-agile-books-for-software-engineers.md
+posts_page: /blog/
+featured: true
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+- Table of Contents
+  {:toc .large-only}
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+Beyond Engineering is my personal blog where I write about what interests me about software engineering especially Java.
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+## Featured Posts
+<!--posts-->
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
-
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
-
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
-
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+## About Me
+<!--author-->

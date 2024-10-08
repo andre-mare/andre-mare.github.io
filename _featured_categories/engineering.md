@@ -3,18 +3,19 @@
 layout: grid
 
 # The title of the tag's page.
-title: Example
+title: Software Engineering
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: engineering
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Software Engineering focuses on the practical application of coding, testing, and maintaining software systems, 
+  emphasising efficient implementation, problem-solving, and code quality. This category covers development practices, 
+  programming languages, and tools used to build robust, scalable, and high-performance applications.
 
 # (Optional) You can disable grouping posts by date.
-no_groups: true
+no_groups: false
 
 # Exclude this example category from the sitemap.
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
