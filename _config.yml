@@ -51,6 +51,14 @@ author:
 menu:
   - title:             Home
     url:               /
+  - title:             Software Engineering
+    url:               /software-engineering/
+  - title:             Software Architecture
+    url:               /software-architecture/
+  - title:             Management & Leadership
+    url:               /software-management/
+  - title:             Personal Development
+    url:               /personal-development/
   - title:             Blog
     url:               /blog/
 
@@ -286,11 +294,11 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /blog/:name/
+    permalink:         /:name/
     output:            true
 
   featured_tags:
-    permalink:         /tag-:name/
+    permalink:         /:name/
     output:            true
 
   projects:
