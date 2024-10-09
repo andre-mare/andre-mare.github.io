@@ -2,7 +2,7 @@
 layout: post
 title: "Minikube Essentials Developer Guide"
 author: andre
-categories: [ engineering ]
+categories: [ software-engineering, containers ]
 tags: [minikube]
 image: /assets/images/feature-images/feature-image-minikube.jpg
 description: "Developer Guide for using Minikube to set up a Kubernetes Cluster on your local machine."
