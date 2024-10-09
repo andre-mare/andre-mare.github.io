@@ -9,7 +9,7 @@ featured: true
 ---
 
 - Table of Contents
-  {:toc .large-only}
+{:toc .large-only}
 
 Beyond Engineering is my personal blog where I write about what interests me about software engineering especially Java.
 
