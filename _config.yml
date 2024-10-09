@@ -51,16 +51,18 @@ author:
 menu:
   - title:             Home
     url:               /
-  - title:             Software Engineering
+  - title:             Engineering
     url:               /software-engineering/
-  - title:             Software Architecture
+  - title:             Architecture
     url:               /software-architecture/
-  - title:             Management & Leadership
+  - title:             Leadership
     url:               /software-management/
-  - title:             Personal Development
+  - title:             Learning
     url:               /personal-development/
   - title:             Blog
     url:               /blog/
+  - title:             About Me
+    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
