@@ -3,7 +3,7 @@ layout: welcome
 title: Beyond Engineering
 cover: true
 selected_posts:
-- personal-development/communication-skills/_posts/2024-01-01-communication-skills-post-1.md
+- personal-development/communication-skills/_posts/2024-01-01-the-coin-feedback-model.md
 - personal-development/communication-skills/_posts/2024-01-01-communication-skills-post-2.md
 - personal-development/learning-skills/_posts/2024-01-01-learning-skills-post-1.md
 - software-architecture/event-driven-architecture-patterns/_posts/2024-01-01-ecst-post-1.md
