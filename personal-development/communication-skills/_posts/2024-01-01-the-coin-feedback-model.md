@@ -31,26 +31,30 @@ This helps the individual understand the consequences of their behaviour. You ca
 Help the individual see how they should have acted and what they can do differently next time.
 
 ## How to Give COIN Feedback?
-**Describe the Context**
+**1. Describe the Context**
+
 Set the stage for your feedback by describing the specific situation that prompted it. Provide precise details to 
 ensure the recipient understands the context.
 
 During yesterday’s team meeting, I noticed something I want to discuss with you.
 {:.note title="Example"}
 
-**Describe the Observation**
+**2. Describe the Observation**
+
 Next, focus on the actions or behaviours you observed. Stick to what you saw or heard, avoiding assumptions or interpretations.
 
 I noticed you ridiculed a team member who was absent from the meeting. It wasn’t just a one-off quip; you did it three times.
 {:.note title="Example"}
 
-**Describe the Impact**
+**3. Describe the Impact**
+
 Explain how the observed behaviour affected others or the team. Use concrete examples to illustrate the impact.
 
 The result was that some of the team laughed, but the rest felt uncomfortable and embarrassed. This frustrates me because it undermines my goal of creating a high-performance team.
 {:.note title="Example"}
 
-**Outline the Next Steps**
+**4. Outline the Next Steps**
+
 Discuss how to move forward and what changes you expect. Ensure this is a collaborative process.
 
 In the future, I’d like you to keep such thoughts to yourself. How do you think we can prevent this from happening again?
