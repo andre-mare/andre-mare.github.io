@@ -82,7 +82,6 @@ The COIN Feedback Model is a simple yet effective tool for delivering feedback t
 
 By structuring your feedback around context, observation, impact, and next steps, you can help others understand exactly what they did well or need to improve and why it matters.
 
----
 > We all need people who will give us feedback. That’s how we improve.
 > ~ Bill Gates
----
+{:.lead}
