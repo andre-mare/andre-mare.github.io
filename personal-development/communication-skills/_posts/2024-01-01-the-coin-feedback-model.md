@@ -4,7 +4,7 @@ title: "The COIN Feedback Model"
 author: andre
 categories: [ personal-development, communication-skills ]
 tags: [feedback]
-image: /assets/images/feature-images/feature-image-minikube.jpg
+image: /assets/images/unsplash/krakenimages-376KN_ISplE-unsplash.jpg
 description: "A practical guide on how to give feedback in a clear, specific, and impactful manner using the COIN Model."
 comments: true
 ---
