@@ -34,7 +34,8 @@ Help the individual see how they should have acted and what they can do differen
 1. Describe the Context
    Set the stage for your feedback by describing the specific situation that prompted it. Provide precise details to ensure the recipient understands the context.
 
-> Example: “During yesterday’s team meeting, I noticed something I want to discuss with you.”
+During yesterday’s team meeting, I noticed something I want to discuss with you.
+{:.note title="Example"}
 
 2. Describe the Observation
    Next, focus on the actions or behaviours you observed. Stick to what you saw or heard, avoiding assumptions or interpretations.
