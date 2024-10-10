@@ -63,11 +63,11 @@ In the future, I’d like you to keep such thoughts to yourself. How do you thin
 ## Guidelines for Effective COIN Feedback
 Here are some tips to enhance the effectiveness of your feedback using the COIN model:
 
-- Be Prompt: Give feedback as soon as possible after the event to ensure it is timely and relevant.
-- Be Specific: Regularly provide small, actionable feedback rather than overwhelming the recipient with too much at once.
-- Private Negative Feedback: Deliver negative feedback in private to avoid embarrassment.
-- Public Positive Feedback: Give positive feedback in public to boost morale and recognition.
-- Limit Feedback: Focus on one or two specific events to make the feedback manageable and actionable.
+- **Be Prompt**: Give feedback as soon as possible after the event to ensure it is timely and relevant.
+- **Be Specific**: Regularly provide small, actionable feedback rather than overwhelming the recipient with too much at once.
+- **Private Negative Feedback**: Deliver negative feedback in private to avoid embarrassment.
+- **Public Positive Feedback**: Give positive feedback in public to boost morale and recognition.
+- **Limit Feedback**: Focus on one or two specific events to make the feedback manageable and actionable.
 
 ## Example of COIN Feedback in Action
 Imagine you manage a small team and observe one of your team members mocking another who was absent during a meeting. Here’s how you could provide feedback using the COIN model:
@@ -81,3 +81,8 @@ Imagine you manage a small team and observe one of your team members mocking ano
 The COIN Feedback Model is a simple yet effective tool for delivering feedback that is clear, specific, and impactful.
 
 By structuring your feedback around context, observation, impact, and next steps, you can help others understand exactly what they did well or need to improve and why it matters.
+
+---
+> We all need people who will give us feedback. That’s how we improve.
+> ~ Bill Gates
+---
