@@ -2,15 +2,17 @@
 layout: post
 title: "How to Iterate through a Java List"
 author: andre
-categories: [ java-collections ]
+categories: [ software-engineering, java-language ]
+tags: [java, java-collections]
 image: /assets/images/feature-images/feature-image-java.png
 description: This post will list a number of examples on how you can iterate over an ArrayList containing the names of cities as String values. 
 comments: true
 ---
+
 - Table of Contents
 {:toc .large-only}
 
-There are numerous ways to ieterate through a List making use of the Java language. This post will list a number of examples on how you can iterate over an ArrayList containing the names of cities as String values. 
+There are numerous ways to iterate through a List making use of the Java language. This post will list a number of examples on how you can iterate over an ArrayList containing the names of cities as String values. 
 
 ## Example 1: Classic For Loop
 The Java For-loop is a control flow statement that allows us to iterate over each position of the List. This example determines the size of the list, and iterate over the positions, by incrementing a counter.
@@ -119,6 +121,5 @@ private static void forEachRemaining() {
 }
 ```
 
-
 ## Summary
-Congratulations! You have successfully learned numerous ways you can itereate over a List in Java. Follow me on any of the different social media platforms and feel free to leave comments.
+Congratulations! You have successfully learned numerous ways you can iterate over a List in Java. Follow me on any of the different social media platforms and feel free to leave comments.
