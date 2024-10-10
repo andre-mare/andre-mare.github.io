@@ -32,9 +32,7 @@ Help the individual see how they should have acted and what they can do differen
 
 ## How to Give COIN Feedback?
 **1. Describe the Context**
-
-Set the stage for your feedback by describing the specific situation that prompted it. Provide precise details to 
-ensure the recipient understands the context.
+: Set the stage for your feedback by describing the specific situation that prompted it. Provide precise details to ensure the recipient understands the context.
 
 During yesterday’s team meeting, I noticed something I want to discuss with you.
 {:.note title="Example"}
