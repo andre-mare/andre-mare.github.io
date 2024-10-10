@@ -31,26 +31,30 @@ This helps the individual understand the consequences of their behaviour. You ca
 Help the individual see how they should have acted and what they can do differently next time.
 
 ## How to Give COIN Feedback?
-1. Describe the Context
-   Set the stage for your feedback by describing the specific situation that prompted it. Provide precise details to ensure the recipient understands the context.
+**Describe the Context**
+Set the stage for your feedback by describing the specific situation that prompted it. Provide precise details to 
+ensure the recipient understands the context.
 
 During yesterday’s team meeting, I noticed something I want to discuss with you.
 {:.note title="Example"}
 
-2. Describe the Observation
-   Next, focus on the actions or behaviours you observed. Stick to what you saw or heard, avoiding assumptions or interpretations.
+**Describe the Observation**
+Next, focus on the actions or behaviours you observed. Stick to what you saw or heard, avoiding assumptions or interpretations.
 
-> Example: “I noticed you ridiculed a team member who was absent from the meeting. It wasn’t just a one-off quip; you did it three times.”
+I noticed you ridiculed a team member who was absent from the meeting. It wasn’t just a one-off quip; you did it three times.
+{:.note title="Example"}
 
-3. Describe the Impact
-   Explain how the observed behaviour affected others or the team. Use concrete examples to illustrate the impact.
+**Describe the Impact**
+Explain how the observed behaviour affected others or the team. Use concrete examples to illustrate the impact.
 
-> Example: “The result was that some of the team laughed, but the rest felt uncomfortable and embarrassed. This frustrates me because it undermines my goal of creating a high-performance team.”
+The result was that some of the team laughed, but the rest felt uncomfortable and embarrassed. This frustrates me because it undermines my goal of creating a high-performance team.
+{:.note title="Example"}
 
-4. Outline the Next Steps
-   Discuss how to move forward and what changes you expect. Ensure this is a collaborative process.
+**Outline the Next Steps**
+Discuss how to move forward and what changes you expect. Ensure this is a collaborative process.
 
-> Example: “In the future, I’d like you to keep such thoughts to yourself. How do you think we can prevent this from happening again?”
+In the future, I’d like you to keep such thoughts to yourself. How do you think we can prevent this from happening again?
+{:.note title="Example"}
 
 ## Guidelines for Effective COIN Feedback
 Here are some tips to enhance the effectiveness of your feedback using the COIN model:
